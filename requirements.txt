@@ -1,0 +1,6 @@
+streamlit
+nltk
+requests
+beautifulsoup4
+spacy
+gensim
